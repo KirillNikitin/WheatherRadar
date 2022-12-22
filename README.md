@@ -1,4 +1,4 @@
-# weather_radar
+# Weather Radar
 
 A simple weather forecast Flutter project.
 
